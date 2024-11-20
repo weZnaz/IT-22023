@@ -1,18 +1,16 @@
-## Getting Started
+This is a calculation game made with java ..
+#IT-22023
+It has three difficulty level on it
+                  1.Warm_Up
+                  2.Battlefield
+                  3.Final Boss
+A user have to give their name,age,Id. Then he/she have to play the game..
+There are some problem like 
+                      sin(90) + 4 * 3
+                      cos(0) * 10 - 1
+                      sqrt(81) - sin(30)
+                      3^2 + sqrt(36)
+Then he/she have to give the answers of thoose expressions.. If the answer 
+is wrong then he/she will get one point else no point
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The program also store users information to a text file
