@@ -1,0 +1,88 @@
+sqrt(49) + 5
+sin(30) + 10
+cos(60) * 2
+2^3 + sqrt(16)
+(sqrt(25) + 5) / 2
+sin(90) + 4 * 3
+cos(0) * 10 - 1
+sqrt(81) - sin(30)
+3^2 + sqrt(36)
+tan(45) + 10
+4 * (sin(90) + 3)
+cos(60) * sqrt(16)
+sqrt(100) / 2 + 5
+(3^2 - 4) + sin(30)
+sqrt(64) - tan(45)
+(5 * sin(30)) + sqrt(49)
+cos(60) + sqrt(36) / 2
+sin(90) + sqrt(9) * 3
+tan(45) + 2^3 - sqrt(4)
+sqrt(144) - cos(0)
+sin(30) + sqrt(25) * 2
+sqrt(81) / (tan(45) + 1)
+cos(60) + 2^2 - 3
+sqrt(16) * sin(90) + 6
+4 + cos(0)
+sqrt(121) - sin(30)
+tan(45) * 2 + sqrt(9)
+(sin(90) * 10) - 5
+sqrt(36) / cos(60)
+(2^3 - 4) + sqrt(25)
+cos(0) * sqrt(64) - 7
+(5 + sin(30))^2 / 5
+sin(90) * sqrt(49) + 6
+cos(60) + 3^2 - sqrt(9)
+sqrt(144) / 2 - tan(45)
+4 * (cos(0) + sqrt(16))
+(3^2 + sin(30)) * 2
+sqrt(81) + cos(60) * 5
+tan(45) + 4^2 - sqrt(25)
+(2^3 / sin(90)) + 3
+sqrt(64) + cos(0) * 10
+sin(30) + 2^3 - sqrt(16)
+sqrt(100) * tan(45) + 8
+5 + cos(60) * sqrt(49)
+sqrt(121) / (tan(45) + 2)
+sin(90) + sqrt(16) * 4
+(2^3 - cos(0)) * sqrt(36)
+tan(45) + 9 / sin(30)
+sqrt(81) * cos(60) + 2^3
+sin(90) * (4 + sqrt(9))
+sqrt(64) - tan(45) + cos(0)
+(3^2 - sin(30)) / 2
+sqrt(144) + 2^3 - cos(60)
+sin(30) * sqrt(36) + 5
+sqrt(25) + tan(45) * 3
+cos(0) + sqrt(81) - sin(30)
+(2^3 + 4) / tan(45)
+sqrt(64) / cos(60) + 7
+sin(90) + sqrt(49) * 2
+tan(45) + sqrt(36) - 3^2
+sqrt(121) - cos(0) + sin(30)
+(sin(90) * 6 + sqrt(16))
+cos(60) + tan(45) * 2
+sqrt(100) / 4 + 3^2
+sin(30) * (sqrt(49) - 2)
+cos(0) + sqrt(144) * 2
+sqrt(25) + 2^3 - tan(45)
+(sin(90) + 5) / sqrt(36)
+cos(60) * sqrt(81) - 4
+sqrt(16) + tan(45) + 10
+sin(30) * 4 + sqrt(36)
+(sqrt(64) / cos(60)) - 5
+tan(45) + 3^2 + sqrt(49)
+sin(90) + sqrt(121) / 5
+cos(0) * (sqrt(36) + 2^3)
+sqrt(64) - tan(45) / 2
+sin(30) + sqrt(25) * 4
+sqrt(100) + tan(45) * cos(60)
+(sin(90) + sqrt(9)) / 4
+sqrt(144) - cos(0) * 3
+cos(60) + tan(45) / sqrt(49)
+sin(30) + 4 * sqrt(36)
+sqrt(81) - (tan(45) + cos(0))
+3^2 + sqrt(100) / sin(90)
+tan(45) * sqrt(25) - 5
+sqrt(64) + sin(30) * cos(0)
+(cos(60) + sqrt(36)) * 3
+sqrt(121) - tan(45) + 6

@@ -1,0 +1,2 @@
+Name: sami Age: 22 ID: it23023 Email: sami@gmail.com Date: 2024-11-20 Time: 15:6 Score: 2
+Name: s Age: s ID: s Email: s Date: 2024-11-20 Time: 15:11 Score: 4
