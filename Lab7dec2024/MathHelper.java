@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MathHelper {
+public class MathAssistant {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -62,18 +62,48 @@ public class MathHelper {
             double solution1 = (-coefB + Math.sqrt(delta)) / (2 * coefA);
             double solution2 = (-coefB - Math.sqrt(delta)) / (2 * coefA);
             System.out.println("Solutions: " + solution1 + ", " + solution2);
-            if (solution1 >= 0 && solution2 >= 0) {
-                System.out.println("Smallest Positive Solution: " + Math.min(solution1, solution2));
-            } else if (solution1 >= 0) {
-                System.out.println("Smallest Positive Solution: " + solution1);
-            } else if (solution2 >= 0) {
-                System.out.println("Smallest Positive Solution: " + solution2);
-            } else {
-                System.out.println("No Positive Solutions.");
-            }
         } else {
             System.out.println("No Real Solutions.");
         }
+
+        // Task 6: Surface Area of a Sphere
+        System.out.println("\nTask 6: Calculate Surface Area of a Sphere.");
+        System.out.print("Enter radius of the sphere (radius): ");
+        double sphereRadius = input.nextDouble();
+        double surfaceArea = 4 * Math.PI * Math.pow(sphereRadius, 2);
+        System.out.println("Surface Area of Sphere: " + surfaceArea);
+
+        // Task 7: Circumference of a Circle
+        System.out.println("\nTask 7: Calculate Circumference of a Circle.");
+        System.out.print("Enter radius of the circle (radius): ");
+        double circleRadius = input.nextDouble();
+        double circumference = 2 * Math.PI * circleRadius;
+        System.out.println("Circumference of the Circle: " + circumference);
+
+        // Task 8: Convert Celsius to Fahrenheit
+        System.out.println("\nTask 8: Convert Celsius to Fahrenheit.");
+        System.out.print("Enter temperature in Celsius (celsius): ");
+        double celsius = input.nextDouble();
+        double fahrenheit = (celsius * 9 / 5) + 32;
+        System.out.println("Temperature in Fahrenheit: " + fahrenheit);
+
+        // Task 9: Calculate BMI
+        System.out.println("\nTask 9: Calculate Body Mass Index (BMI).");
+        System.out.print("Enter weight in kilograms (weight): ");
+        double weight = input.nextDouble();
+        System.out.print("Enter height in meters (height): ");
+        double height = input.nextDouble();
+        double bmi = weight / Math.pow(height, 2);
+        System.out.println("Your BMI is: " + bmi);
+
+        // Task 10: Perimeter of a Rectangle
+        System.out.println("\nTask 10: Calculate Perimeter of a Rectangle.");
+        System.out.print("Enter length of the rectangle (length): ");
+        double length = input.nextDouble();
+        System.out.print("Enter width of the rectangle (width): ");
+        double width = input.nextDouble();
+        double perimeter = 2 * (length + width);
+        System.out.println("Perimeter of the Rectangle: " + perimeter);
 
         input.close();
     }
